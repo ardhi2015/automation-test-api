@@ -1,4 +1,5 @@
 ## Pre Request
+install python
 
 ### Create Virtual Environtment
 1. Create venv
@@ -11,7 +12,7 @@
   $ source env/bin/activate
   ```
 
-3. Install library
+3. Install library using pip
 - jsonpath
 - requests
 - pytest
